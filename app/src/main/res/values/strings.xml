@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLKitFaceApp</string>
+    <string name="instrcution">please make these gestures: Smile, Turn left and Turn right</string>
+    <string name="htmlstuff"><![CDATA[<b>Hello world!</b> Hello people also]]></string>
+</resources>
